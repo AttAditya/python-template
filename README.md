@@ -2,6 +2,15 @@
 
 AttAditya's Python Repo Template is a boilerplate for Python projects, providing a structured and organized starting point for developers. It includes a predefined directory structure, essential files, and scripts to streamline the development process.
 
+## Setup Checklist
+
+- [ ] `config.sh`: set the variables about the development environment
+- [ ] `pyproject.toml`: swap `<repo>` and `<description>` with the name and description of the repository
+- [ ] `README.md`: swap `<repo>` with the name of the repository and update the description and other relevant sections
+- [ ] Add secrets and variables in the GitHub Repository:
+  - `secrets.AI_URL`
+  - `secrets.AI_TOKEN`
+
 ## Installation
 
 ```sh
